@@ -1,0 +1,9 @@
+.idea/
+.tmp/
+coverage/
+dist/
+node_modules/
+
+*.iml
+.yo-rc.json
+.DS_Store
